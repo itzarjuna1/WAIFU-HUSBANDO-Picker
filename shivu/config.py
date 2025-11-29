@@ -2,18 +2,18 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    OWNER_ID = "6765826972"
-    sudo_users = "6845325416", "6765826972"
-    GROUP_ID = -1002133191051
-    TOKEN = "6707490163:AAHZzqjm3rbEZsObRiNaT7DMtw_i5WPo_0o"
-    mongo_url = "mongodb+srv://HaremDBBot:ThisIsPasswordForHaremDB@haremdb.swzjngj.mongodb.net/?retryWrites=true&w=majority"
-    PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
-    SUPPORT_CHAT = "Collect_em_support"
-    UPDATE_CHAT = "Collect_em_support"
-    BOT_USERNAME = "Collect_Em_AllBot"
-    CHARA_CHANNEL_ID = "-1002133191051"
-    api_id = 26626068
-    api_hash = "bf423698bcbe33cfd58b11c78c42caa2"
+    OWNER_ID = "7487670897"
+    sudo_users = "7990456522", "7487670897", "8021397962"
+    GROUP_ID = -1003410483524
+    TOKEN = ""
+    mongo_url = "mongodb+srv://WaifuXHusbandoCatcher:WaifuXHusbandoCatcher@cluster0.lnygfjx.mongodb.net/?appName=Cluster0"
+    PHOTO_URL = ["https://graph.org/file/832d9e63f34f96a335c9d-2711fe9b1c754b3c94.jpg", "https://graph.org/file/0a8e66a00cd44c7315c42-b6e1ced788d13ccded.jpg"]
+    SUPPORT_CHAT = "Gossip_Devil_Hub"
+    UPDATE_CHAT = "Destiny_Infinity_Og"
+    BOT_USERNAME = "Queen_Medusa_Catcher_Bot"
+    CHARA_CHANNEL_ID = "-1003449944691"
+    api_id = 27209067
+    api_hash = "0bb2571bd490320a5c9209d4bf07902e"
 
     
 class Production(Config):
